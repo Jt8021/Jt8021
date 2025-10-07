@@ -5,7 +5,7 @@ Full-Stack Developer & Third-Year Bachelor of Computing Student at [Belgium Camp
 
 🔥 **Passionate about building innovative web apps and robust systems** that drive efficiency and user experience— from responsive front-ends to database-driven back-ends.
 
-🚀 **Seeking internships or entry-level roles** in software development to apply my skills in real-world projects.
+🚀 **Seeking internships** in software development to apply my skills in real-world projects.
 
 </div>
 
