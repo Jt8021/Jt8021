@@ -3,7 +3,7 @@
 👋 **Hi, I’m Johannes Theunissen (Jt)**  
 Full-Stack Developer & Third-Year Bachelor of Computing Student at [Belgium Campus iTversity](https://www.belgiumcampus.ac.za/)
 
-🔥 **Passionate about building innovative web apps and robust systems** that drive efficiency and user experience— from responsive front-ends to database-driven back-ends.
+🔥 **Passionate about building innovative apps and robust systems** that drive efficiency and user experience from responsive front-ends to database-driven back-ends.
 
 🚀 **Seeking internships** in software development to apply my skills in real-world projects.
 
@@ -15,9 +15,8 @@ Full-Stack Developer & Third-Year Bachelor of Computing Student at [Belgium Camp
 - **Tools**: Git/GitHub, Software Troubleshooting
 - **Soft Skills**: Problem-Solving, Adaptable, Works Under Pressure & Independently
 
-### 📂 **Featured Projects**
+### 📂 **My CV**
 Check out my CV repo:
-
 [![MY_CV]()  
 
 ### 🌐 **Connect With Me**
