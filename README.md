@@ -17,7 +17,8 @@ Full-Stack Developer & Third-Year Bachelor of Computing Student at [Belgium Camp
 
 ### 📂 **My CV**
 Check out my CV repo:
-[![MY_CV]()  
+[![My_CV](https://github-readme-stats.vercel.app/api/pin/?username=Jt8021&repo=My_CV&theme=radical)](https://github.com/Jt8021/My_CV)
+**My_CV** - Personal portfolio repository showcasing my full-stack development journey, skills in Python, Java, C#, and professional experience via an interactive CV.
 
 ### 🌐 **Connect With Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johannes-theunissen-266009256)
