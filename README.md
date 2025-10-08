@@ -14,11 +14,11 @@ Full-Stack Developer & Third-Year Bachelor of Computing Student at [Belgium Camp
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git/GitHub, Software Troubleshooting
 - **Soft Skills**: Problem-Solving, Adaptable, Works Under Pressure & Independently
-<div align="left">
+
 ### 📂 **My CV**
 Check out my CV repo:
 [![My_CV](https://github-readme-stats.vercel.app/api/pin/?username=Jt8021&repo=My_CV&theme=radical)](https://github.com/Jt8021/My_CV)
-</div>
+
 ### 🌐 **Connect With Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johannes-theunissen-266009256)
 - 📧 jttheun8021@gmail.com
