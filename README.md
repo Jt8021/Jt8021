@@ -16,7 +16,6 @@ Full-Stack Developer & Third-Year Bachelor of Computing Student at [Belgium Camp
 - **Soft Skills**: Problem-Solving, Adaptable, Works Under Pressure & Independently
 
 ### 📂 **My CV**
-Check out my CV repo:
 [![My_CV](https://github-readme-stats.vercel.app/api/pin/?username=Jt8021&repo=My_CV&theme=radical)](https://github.com/Jt8021/My_CV)
 
 ### 🌐 **Connect With Me**
